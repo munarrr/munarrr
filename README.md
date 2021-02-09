@@ -1,7 +1,7 @@
 ### Hi there 👋
-<img align="center" alt="Zhamal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zhamalamazalieva&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="munarrr src="https://github-readme-stats.codestackr.vercel.app/api?username=munarrr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/zhamalamazalieva">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhamalamazalieva&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=munarrr&layout=compact&theme=radical" />
 </a>
 
 
