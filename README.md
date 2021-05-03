@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 2)The Food - <a href="https://stoic-benz-e10aa5.netlify.app/">Посмотреть</a> </br>
 3)Geekle - <a href="https://stoic-sammet-bd5f53.netlify.app/">Посмотреть</a> </br>
 4)MouseMe - <a href="https://xenodochial-yalow-6b6bac.netlify.app/">В процессе 404</a> </br>
-5)Advantage - <a href="https://xenodochial-yalow-6b6bac.netlify.app/">В процессе 404</a>
+5)Advantage - <a href="https://xenodochial-yalow-6b6bac.netlify.app/">В процессе 404</a> </br>
+6)BGTK - <a href="https://bgtk.edu.kg">В процессе 404</a>
