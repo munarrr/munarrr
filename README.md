@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Мои проекты 
-1)The Food - <a href="https://stoic-benz-e10aa5.netlify.app/">Посмотреть</a>
+
+
+1)Мое резюме - <a href="https://elastic-spence-a7e698.netlify.app/">Посмотреть</a>
+2)The Food - <a href="https://stoic-benz-e10aa5.netlify.app/">Посмотреть</a>
+3)Geekle - <a href="https://stoic-sammet-bd5f53.netlify.app/">Посмотреть</a>
+4)MouseMe - <a href="https://xenodochial-yalow-6b6bac.netlify.app/">В процессе 404</a>
+5)Advantage - <a href="https://xenodochial-yalow-6b6bac.netlify.app/">В процессе 404</a>
