@@ -6,10 +6,8 @@ Hi there 👋
 
 
 
-<a href="https://github.com/munarrr">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=munarrr&layout=compact&theme=radical" />
-  <img align="left" src="https://tenor.com/view/typing-jim-carrey-jim-carrey-type-gif-4680550" />
-                                                                                                                                            </a>
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
 
 
 Мои проекты </br>
