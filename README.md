@@ -5,8 +5,7 @@ Hi there 👋
 - 🤔 I’m looking for help with stackoverflow
 
 
-
-<img align="right" alt="Coding" width="400" src="add yhttps://github.com/munarrr/munarrr/edit/main/README.md">
+[![trophy](https://github-profile-trophy.vercel.app/?username=munarrr)](https://github.com/munarrr/github-profile-trophy)
 
 
 Мои проекты </br>
