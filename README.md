@@ -31,7 +31,7 @@
 <code><img height="40" width="40" src="https://polyakovdmitriy.ru/wp-content/uploads/2020/08/maxresdefault-2.jpg"></code>
 <code><img height="40" width="40" src="https://miro.medium.com/max/1200/1*K-4RqDC6zFrpAG31ayDDOg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></code>
-<code><img height="40" width="40" src="https://id.nuxtjs.org/logos/nuxt-icon-white@2x.png"></code>
+<code><img height="40" width="40" src="https://www.webnoob.dev/img/og/getting-started-with-nuxt.jpg"></code>
 #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
