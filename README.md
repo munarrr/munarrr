@@ -5,7 +5,7 @@ Hi there 👋
 - 🤔 I’m looking for help with stackoverflow
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=munarrr)](https://github.com/munarrr/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=munarrr&theme=onedark)](https://github.com/munarrr/github-profile-trophy)
 
 
 Мои проекты </br>
