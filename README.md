@@ -7,7 +7,7 @@ Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=munarrr&theme=onedark)](https://github.com/munarrr/github-profile-trophy)
 
-
+<img src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" alt="coder" width=300 height=300 />
 Мои проекты </br>
 
 
