@@ -12,9 +12,9 @@
 - 🤔 I’m looking for help with stackoverflow
 <br/>
 <br/>
-#
+
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=munarrr&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-#
+
 
 <img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="./github.gif">
 <br/>
