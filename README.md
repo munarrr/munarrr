@@ -6,8 +6,7 @@ Hi there 👋
 
 
 
-<img align="right" alt="Coding" width="400" src="add your link 
-  here">
+<img align="right" alt="Coding" width="400" src="add yhttps://github.com/munarrr/munarrr/edit/main/README.md">
 
 
 Мои проекты </br>
