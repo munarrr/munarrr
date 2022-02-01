@@ -45,6 +45,8 @@
 
 <br/>
 <br/>
-
+<h2 align="center">A good programmer always looks both to the right and to the left before crossing a one-way street<h2>
+<br/>
+<br/>
 #
 ![footer](./footer.webp)
