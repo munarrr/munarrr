@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-<h2 align="center">A good programmer always looks both to the right and to the left before crossing a one-way street.<h2>
+<h2 align="center">Don't worry if it doesn't work. If everything always worked, you wouldn't have a job.<h2>
 <br/>
 <br/>
   
